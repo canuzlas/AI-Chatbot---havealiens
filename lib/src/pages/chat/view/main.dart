@@ -10,7 +10,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 // ignore: must_be_immutable
 
-class MessagingPage extends ConsumerStatefulWidget {
+class MessagingPage extends ConsumerStatefulWidget { 
   const MessagingPage({Key? key}) : super(key: key);
 
   @override
